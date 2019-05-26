@@ -1,0 +1,89 @@
+
+.home{
+    background-color:rgba(218, 209, 240, 0.993);
+}
+
+.header{
+    width:100%;
+    height:100px;
+    margin-top:0px;
+    background-color:rgba(191, 182, 212, 0.993);
+}
+
+.header h1{
+    position: relative;
+    margin-top:0px;
+    padding-top:30px;
+    padding-left:100px;
+    color:black;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.navi{
+    position: fixed;
+    display:inline-block;
+    width:110px;
+    margin-top:50px;
+    border:solid 1px rgb(101, 101, 230);
+    border-radius:10px;
+}
+
+.navili{
+    font-family: 'Yeon Sung', cursive;
+    box-sizing:border-box;
+    padding-left:10px;
+    width:95px;
+}
+
+.content{
+    margin-left:130px;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.profile{
+    box-sizing:border-box;
+    width:1000px;
+    height:400px;
+    position: relative;
+}
+
+.profiletop{
+    box-sizing:border-box;
+    width:1000px;
+    position: relative;
+    margin-bottom:10px;
+}
+
+.profileimg{
+    position: relative;
+    display:inline-block;
+    width:300px;
+    bottom:70px;
+}
+
+.information{
+    position: relative;
+    display:inline-block;
+    left:50px;
+
+}
+
+.service{
+    width:1000px;
+    height:400px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.service img{
+    width:300px;
+    display:inline-block;
+    position: relative;
+    bottom:60px;
+}
+
+.serviceinfo{
+    left:50px;
+    display:inline-block;
+    position: relative;
+}
